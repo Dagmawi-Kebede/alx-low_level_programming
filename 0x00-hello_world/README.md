@@ -17,3 +17,5 @@ C Program
 4-puts.c , prints exactly "Programming is like building a mulitlingual puzzle", followed by a new line using the function puts and the program should return 0.
 
 5-printf.c , prints exactly "with proper grammar, but the outcome is a piece of art,", followed by a new line using the function printf and the program should return 0.
+
+6-size.c , prints the size of various types on the computer it is compiled and run on and program should return 0.

@@ -11,6 +11,7 @@ Bash Scripts
 
 ./3-name , compiles a C file and creates an executable named cisfun. The C file name will be saved in the variable $CFILE.
 
+./100-intel , generates the assembly code(intel syntax) of a C code and save it in an output file. The C file name will be saved in the variable $CFILE and the output file should be named the same as the C file, but with extension .s instead of .c.
 
 C Program
 

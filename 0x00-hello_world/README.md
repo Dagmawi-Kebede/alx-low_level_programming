@@ -20,3 +20,5 @@ C Program
 5-printf.c , prints exactly "with proper grammar, but the outcome is a piece of art,", followed by a new line using the function printf and the program should return 0.
 
 6-size.c , prints the size of various types on the computer it is compiled and run on and program should return 0.
+
+101-quote.c , prints exactly "and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error. with out using printf or puts."

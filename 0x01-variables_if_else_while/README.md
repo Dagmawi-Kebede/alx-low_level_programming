@@ -19,3 +19,5 @@ Programs
 7-print_tebahpla.c , This program prints the lowercase alphabet in reverse.
 
 8-print_base16.c , This program prints all the number of base 16 in lowercase.
+
+9-print_comb.c , This program prints all possible combinations of single-digit numbers.

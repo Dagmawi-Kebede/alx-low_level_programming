@@ -11,3 +11,5 @@ Programs
 3-print_alphabets.c , This program prints the alphabet in lowercase, and then in uppercase.
 
 4-print_alphabt.c , This program prints all the letters in an alphabet except q and e.
+
+5-print_numbers.c , This program prints all single digit numbers of base 10 starting from 0.

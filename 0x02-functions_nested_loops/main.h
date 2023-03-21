@@ -52,4 +52,13 @@ int _isalpha(int c);
  */
 int print_sign(int n);
 
+/**
+ * _abs - prints character to the stdout.
+ *@int: computed parameter type, integer.
+ *
+ * Return: absolute value.
+ *
+ */
+int _abs(int);
+
 #endif

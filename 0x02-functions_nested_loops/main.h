@@ -18,4 +18,13 @@ int _putchar(char);
  */
 void print_alphabet(void);
 
+/**
+ * print_alphabet_x10 - prints 10 times the alphabet,
+ * in lowercase to the stdout.
+ *
+ * Return: none
+ *
+ */
+void print_alphabet_x10(void);
+
 #endif

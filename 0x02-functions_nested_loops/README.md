@@ -21,3 +21,5 @@ Programs
 8-24_hours.c , prints every minute of a day.
 
 9-times_table.c , prints the 9 times table, starting with 0.
+
+10-add.c , adds two integers and retruns the result.

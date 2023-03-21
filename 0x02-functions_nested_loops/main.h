@@ -53,12 +53,21 @@ int _isalpha(int c);
 int print_sign(int n);
 
 /**
- * _abs - prints character to the stdout.
+ * _abs - computes the absolute value of an integer.
  *@int: computed parameter type, integer.
  *
  * Return: absolute value.
  *
  */
 int _abs(int);
+
+/**
+ * print_last_digit - prints the last digit of a number to stdout.
+ *@int: digit parameter type, integer.
+ *
+ * Return: value of the last digit.
+ *
+ */
+int print_last_digit(int);
 
 #endif

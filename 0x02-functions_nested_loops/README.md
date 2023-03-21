@@ -15,3 +15,5 @@ Programs
 5-sign.c , prints the sign of a number and return 1 and print + if n is greater than zero, returns 0 and prints 0 if n is zero and return -1 and prints - if n is less than zero.
 
 6-abs.c , computes the absolute value of an integer.
+
+7-print_last_digit.c , prints the last digit of a number.

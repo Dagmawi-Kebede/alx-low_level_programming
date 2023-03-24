@@ -4,6 +4,7 @@
  * print_numbers - prints numbers between 0 to 9.
  *
  * Return: none
+ *
  */
 void print_numbers(void)
 {

@@ -13,3 +13,5 @@ Programs
 4-print_most_numbers.c ,  prints the numbers, from 0 to 9 except 2 and 4.
 
 5-more_numbers.c , prints 10 times the numbers, from 0 to 14.
+
+6-print_line.c , draws a straight line in the terminal.

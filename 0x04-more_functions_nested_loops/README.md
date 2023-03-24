@@ -23,3 +23,5 @@ Programs
 9-fizz_buzz.c , prints the number from 1 to 100, but for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 
 10-print_triangle.c , prints a triangle using the character #.
+
+100-prime_factor.c , prints the largest prime factor of the number 612852475143.

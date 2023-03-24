@@ -19,3 +19,5 @@ Programs
 7-print_diagonal.c , draws a diagonal line on the terminal.
 
 8-print_square.c , prints a square using the character #.
+
+9-fizz_buzz.c , prints the number from 1 to 100, but for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
